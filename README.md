@@ -23,7 +23,7 @@ APIs used in this projects are:
 
 ![image](https://user-images.githubusercontent.com/69806791/165052792-28f0fdab-a5fc-4b72-a6b7-d0c9809036e0.png)
 
-# Cryptoverse - Explore the World of Cryptocurrency
+# Cryptomate - Explore the World of Cryptocurrency
 The project's goal is to create a Web-based Cryptocurrency Tracker that allows users to view Global Statistics about cryptos as the Top 10 Cryptocurrencies that have been hot in the past 24 hours.
 
 # Technologies used in this project are:
