@@ -11,6 +11,9 @@ APIs used in this projects are:
 2) Bing News Search
 
 # Screenshots of the Project
+
+Please click the image below to enlarge.
+
 ![image](https://user-images.githubusercontent.com/69806791/165052265-72098ff2-507f-40dc-b5f4-fa8bff6c47e9.png)
 
 ![image](https://user-images.githubusercontent.com/69806791/165052355-0711e8d2-7c7f-4821-a9eb-b42eae7fd065.png)
